@@ -1,0 +1,52 @@
+
+body {
+ width: 100%;
+  background-color:white;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+
+.heading {
+  font-size: 60px;
+  color:white;
+}
+
+.heading span {
+  font-style: italic;
+  font-size: 30px;
+}
+
+.profiles {
+  padding: 3% 10%;
+  margin: 10% auto;
+}
+
+.profile {
+  padding: 5%;
+  margin: 5% 0;
+}
+
+.profile-img {
+  width: 2%;
+  padding: 2% 0;
+  border-radius: 60%;
+}
+
+.user-name {
+  margin-top: 30px;
+  font-size: 35px;
+}
+
+.profile h5 {
+  font-size: 18px;
+  font-weight: 100;
+  letter-spacing: 3px;
+  color:mediumvioletred;
+}
+
+.profile p {
+  font-size: 16px;
+  letter-spacing: 3px;
+}
+
+
